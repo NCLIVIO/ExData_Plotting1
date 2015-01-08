@@ -1,5 +1,5 @@
 #### This code is for Plot 4 of project 1 for the Coursera course "Exploratory Data Analysis"
-#### Date: Nov, 2014
+#### Date: Jan, 2015
 #### Author: Natalia Clivio
 
 #Load Data
